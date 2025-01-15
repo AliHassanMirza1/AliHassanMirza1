@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **25100003@lums.edu.pk**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/179n6FOL2kCDr4RISdPCmjvWM3Bt8V7v7/view?usp=sharing](https://drive.google.com/file/d/179n6FOL2kCDr4RISdPCmjvWM3Bt8V7v7/view?usp=sharing))
+- 📄 Know about my experiences: (https://alihassanmirza1.github.io/assets/pdf/AliHassanAcademicCV.pdf)
 
 - My Research Goals: (https://alihassanmirza1.github.io/assets/pdf/GeneralSOPP.pdf)
 
