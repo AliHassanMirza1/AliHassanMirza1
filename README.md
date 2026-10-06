@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihassanmirza1&label=Profile%20views&color=0e75b6&style=flat" alt="alihassanmirza1" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Based Access Control**
+- 🔭 I’m currently working on **Medical AI**
 
 - 🌱 I’m currently learning **Finetuning LLMs, Oracle Cloud and Advanced Web Developement**
 
-- 📫 How to reach me **25100003@lums.edu.pk**
+- 📫 How to reach me **al.rahs2001@gmail.com**
 
 - 📄 Know about my experiences: (https://alihassanmirza1.github.io/assets/pdf/AliHassanAcademicCV.pdf)
 
