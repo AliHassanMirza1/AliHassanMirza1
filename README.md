@@ -1,28 +1,27 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/alimirza99/)
 <h1 align="center">Hi 👋, I'm Ali Hassan Mirza</h1>
-<h3 align="center">A passionate Networks and Embedded Systems Developer from Pakistan</h3>
+<h3 align="center">AI Engineer · MS CS @ UIC · Fulbright Scholar</h3>
+<p align="center">Building AI and software that scale further and cost less.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihassanmirza1&label=Profile%20views&color=0e75b6&style=flat" alt="alihassanmirza1" /> </p>
 
-- 🔭 I’m currently working on **Medical AI**
+- 🔭 I’m currently pursuing an **MS in Computer Science at the University of Illinois Chicago** as a **Fulbright Scholar**
 
-- 🌱 I’m currently learning **Finetuning LLMs, Oracle Cloud and Advanced Web Developement**
+- 🧠 Previously an **AI Engineer at Tibbling Technologies**, building CPU-efficient neuro-segmentation models and the platform that serves them
+
+- 🌱 I’m going deeper into **scalable AI and distributed systems**
 
 - 📫 How to reach me **al.rahs2001@gmail.com**
 
-- 📄 Know about my experiences: (https://alihassanmirza1.github.io/assets/pdf/AliHassanAcademicCV.pdf)
-
-- My Research Goals: (https://alihassanmirza1.github.io/assets/pdf/GeneralSOPP.pdf)
+- 🌐 Explore my portfolio: **[alihassanmirza1.github.io](https://alihassanmirza1.github.io)**
 
 - ⚡ Fun fact **I am a competitive hiker/mountaineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alihassanmirza6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alihassanmirza6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alimirza99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimirza99" height="30" width="40" /></a>
-<a href="https://instagram.com/alihassan_mirza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihassan_mirza_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alihassanmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alihassanmirza" height="30" width="40" /></a>
 </p>
 
