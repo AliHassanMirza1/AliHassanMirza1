@@ -17,7 +17,13 @@
 
 - 🌐 Explore my portfolio: **[alihassanmirza1.github.io](https://alihassanmirza1.github.io)**
 
-- ⚡ Fun fact **I am a competitive hiker/mountaineer**
+- 🎮 Gamer at heart: **God of War** is an all-time favourite
+
+- 🏔️ Love to travel and take on **difficult hikes** (next up: K2 base camp)
+
+- 🏉 **Rugby**, **swimming** and the **gym** keep me going, and I’m getting into **basketball** 🏀
+
+- 🤝 A people person who loves going out, working for **social causes** and helping people
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
